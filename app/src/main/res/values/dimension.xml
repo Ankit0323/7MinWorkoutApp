@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="image_height">220dp</dimen>
+    <dimen name="btn_layout">150dp</dimen>
+    <dimen name="margin">5dp</dimen>
+    <dimen name="text_size">25sp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+
+
+</resources>

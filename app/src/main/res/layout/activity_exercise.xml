@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ExerciseActivity"
+    android:orientation="vertical">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:id="@+id/toolBar"
+        android:theme="@style/ToolBarTheme"
+
+        android:background="@color/white"/>
+    <LinearLayout
+        android:id="@+id/firstLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolBar"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/white"
+        android:visibility="visible">
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:id="@+id/start"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/text"
+            android:text="GET READY FOR"
+            android:textColor="@color/green"
+            android:textSize="22sp"/>
+
+
+        <FrameLayout
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/frame">
+
+            <androidx.core.widget.ContentLoadingProgressBar
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/progressBar"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:background="@drawable/progress_bar_grey"
+                android:rotation="-90"
+                android:max="10"
+                android:progress="100"
+                android:progressDrawable="@drawable/progress_bar"
+                android:indeterminate="false"/>
+
+            <LinearLayout
+
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@drawable/counter">
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/count"
+                    android:textSize="30sp"
+
+                    android:text="10"
+                    />
+            </LinearLayout>
+
+
+        </FrameLayout>
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+              android:textStyle="bold"
+            android:text="upcoming exercise:"
+            android:textColor="@color/grey"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+             android:id="@+id/nextExercise"
+
+            android:textColor="@color/black"
+            android:textSize="22sp"/>
+
+
+
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:id="@+id/secondLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolBar"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_above="@id/idrecyclerView"
+        android:background="@color/white"
+        android:visibility="invisible">
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:id="@+id/image"
+            android:scaleType="fitXY"
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/name"
+
+            android:textColor="@color/green"
+            android:textSize="22sp"/>
+
+        <FrameLayout
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/frame">
+
+            <androidx.core.widget.ContentLoadingProgressBar
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/eprogressBar"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:background="@drawable/progress_bar_grey"
+                android:rotation="-90"
+
+                android:max="30"
+                android:progress="100"
+                android:progressDrawable="@drawable/progress_bar"
+                android:indeterminate="false"/>
+
+            <LinearLayout
+
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@drawable/counter">
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/ecount"
+                    android:textSize="30sp"
+
+                    android:text="10"
+                    />
+            </LinearLayout>
+
+
+        </FrameLayout>
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/thirdLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolBar"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/white"
+        android:visibility="invisible">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Congratulation"
+        android:textColor="@color/lightBlue"
+        android:textSize="30sp"/>
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/gif"
+android:src="@drawable/finish"
+        android:scaleType="fitXY"
+        />
+        <Button
+            android:id="@+id/finishButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" FINISH "
+            android:backgroundTint="@color/lightBlue"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/idrecyclerView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+
+
+        />
+
+
+
+</RelativeLayout>
