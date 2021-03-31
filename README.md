@@ -28,7 +28,7 @@ Calculate BMI in metric units and Us units.\
  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  ![myactivity2](https://user-images.githubusercontent.com/81551733/113207257-04e41580-928e-11eb-9696-ac2d39cf1515.gif)\
 ![Screenshot_2021-03-30-23-07-50-417_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207348-20e7b700-928e-11eb-9f21-47dc489558cf.jpg)&nbsp; &nbsp; &nbsp; &nbsp;
 ![Screenshot_2021-03-30-23-07-53-084_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207354-234a1100-928e-11eb-8def-e5bffceb3b30.jpg)&nbsp; &nbsp; &nbsp; &nbsp;
-![Screenshot_2021-03-30-23-08-03-303_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207357-25ac6b00-928e-11eb-92fb-4aefad6c8398.jpg)&nbsp; &nbsp; &nbsp; &nbsp;
+![Screenshot_2021-03-30-23-08-03-303_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207357-25ac6b00-928e-11eb-92fb-4aefad6c8398.jpg)&nbsp; &nbsp; &nbsp; &nbsp;\
 ![Screenshot_2021-03-30-23-08-16-649_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207366-280ec500-928e-11eb-9c84-fe078a22ce1c.jpg)&nbsp; &nbsp; &nbsp; &nbsp;
 ![Screenshot_2021-03-30-23-08-45-662_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207371-29d88880-928e-11eb-8786-23c105c19da4.jpg)\
 This app also have History button which stores our all history of completed  activities .\
