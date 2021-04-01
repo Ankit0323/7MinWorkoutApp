@@ -13,7 +13,7 @@
 11.Information about next exercise to follow.\
 12..History buton (Stores previous exercise completion time and message).
 ## Video Tutorial
-### This app has inbuilt songs feature for each exercise  and voice guidance at start of each activity .
+### This app has inbuilt songs feature  and voice guidance .
 
  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; ![myactivity](https://user-images.githubusercontent.com/81551733/113207234-001f6180-928e-11eb-9aca-62ed5d93ca6e.gif)\
 ![Screenshot_2021-03-30-23-04-09-790_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207300-14635e80-928e-11eb-9f86-c7daac54ddf8.jpg) &nbsp; &nbsp; &nbsp; &nbsp; 
