@@ -25,7 +25,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;![Screenshot_2021-03-30-23-07-34-359_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207341-1e855d00-928e-11eb-99bc-fcf7abfab3ca.jpg)&nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Screenshot_2021-03-30-23-04-40-228_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207321-1b8a6c80-928e-11eb-9971-92d8a6b07c33.jpg)\
 ### This app also has BMI calculator.
-### Calculate BMI in metric units and Us units.
+### You can calculate BMI in "metric units" and "Us units".
  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  ![myactivity2](https://user-images.githubusercontent.com/81551733/113207257-04e41580-928e-11eb-9696-ac2d39cf1515.gif)\
 ![Screenshot_2021-03-30-23-07-50-417_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207348-20e7b700-928e-11eb-9f21-47dc489558cf.jpg)&nbsp; &nbsp; &nbsp; &nbsp;
 ![Screenshot_2021-03-30-23-07-53-084_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207354-234a1100-928e-11eb-8def-e5bffceb3b30.jpg)&nbsp; &nbsp; &nbsp; &nbsp;
