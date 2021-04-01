@@ -33,6 +33,7 @@
 ![Screenshot_2021-03-30-23-08-16-649_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207366-280ec500-928e-11eb-9c84-fe078a22ce1c.jpg)&nbsp; &nbsp; &nbsp; &nbsp;
 ![Screenshot_2021-03-30-23-08-45-662_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207371-29d88880-928e-11eb-8786-23c105c19da4.jpg)\
 ### This app also have History button which stores our all history of completed  activities .
+### You can also edit or delete your history.
  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  ![myactivity3](https://user-images.githubusercontent.com/81551733/113207261-06add900-928e-11eb-9095-896d74efbd1f.gif)\
 ![Screenshot_2021-03-30-23-11-29-054_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207380-2c3ae280-928e-11eb-8372-fa16862df054.jpg)&nbsp; &nbsp; &nbsp; &nbsp;
 ![Screenshot_2021-03-30-23-11-42-217_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207387-2e04a600-928e-11eb-83f1-ec8a5baba73f.jpg)&nbsp; &nbsp; &nbsp; &nbsp;
