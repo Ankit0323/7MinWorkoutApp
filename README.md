@@ -22,7 +22,6 @@
 ![Screenshot_2021-03-30-23-04-16-532_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207305-16c5b880-928e-11eb-9231-a52d60f05869.jpg) &nbsp; &nbsp; &nbsp; &nbsp;
 ![Screenshot_2021-03-30-23-04-27-751_com example a7minuteworkout](https://user-images.githubusercontent.com/81551733/113207314-19281280-928e-11eb-92e9-d470964a0dd5.jpg)\  
 ### Shows remaining workouts | current workout |completed workouts [using recycler view] .
------
 ### And we can also end and pause activity any time.
 -----
 #### Demo
